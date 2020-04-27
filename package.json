@@ -1,0 +1,19 @@
+{
+  "name": "project-shuffle",
+  "version": "0.0.1",
+  "description": "A small package to manage deck shuffling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Stuart Urback",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.4.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "ts-jest": "^25.4.0"
+  }
+}
